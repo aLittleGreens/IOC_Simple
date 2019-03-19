@@ -39,7 +39,9 @@ public class MainActivity extends BaseActivity {
 
 事件3大成员
 1、监听的方法名，setOnClickListener()
+
 2、监听的对象，View.OnClickListener()
+
 3、回调方法，onClick(View view)
 
 对于使用者，只需要关注回调方法即可
